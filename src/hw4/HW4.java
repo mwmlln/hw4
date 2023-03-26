@@ -17,7 +17,7 @@ public class HW4 {
 
         System.out.println("This is the very first line of code edited from branch3");
         System.out.println("This is the second line of code edited from bransh3");
-        System.out.println("This is the third and final line of code from main branch");
+        System.out.println("This is the third line of edited from branch3");
     }
     
 }
