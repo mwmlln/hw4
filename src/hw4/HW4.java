@@ -16,7 +16,7 @@ public class HW4 {
     public static void main(String[] args) {
 
         System.out.println("This is the very first line of code for the prohect");
-        System.out.println("This is the second line of code");
+        System.out.println("This is the second line of code resubmitted due to error");
         System.out.println("This is the third and final line of code from main branch");
     }
     
